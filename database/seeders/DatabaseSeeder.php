@@ -17,7 +17,7 @@ class DatabaseSeeder extends Seeder
             'synopsis' => 'In the heart of Dandora, seventeen-year-old DJ Mtaa unearths a bag of unmarked cash while digging a foundation for his mothers new kiosk. As word spreads through the estate, old grudges resurface, a corrupt councilman circles, and Mtaa must choose between vanishing with the money or using it to save the community that raised him.',
             'cast' => 'Brian Ogana, Faith Wanjiku, Otieno Kadaghe',
             'release_date' => '2026-10-02',
-            'trailer_url' => 'https://www.youtube.com/embed/aqz-KE-bpKQ%',
+            'trailer_url' => 'https://www.youtube.com/embed/MIZWu26ThTM',
         ]);
 
         Film::create([
@@ -28,7 +28,7 @@ class DatabaseSeeder extends Seeder
             'synopsis' => 'On a gridlocked Thika Road afternoon, a matatu crew - a hustling conductor, a nervous first-time driver, and a busload of strangers - become entangled in a proposal gone wrong, a runaway bride, and a robbery in progress, all before the sun sets over Nairobis skyline.',
             'cast' => 'Njoki Karanja, Kevin Mwangi, Aisha Bakari',
             'release_date' => '2026-11-14',
-            'trailer_url' => 'https://www.youtube.com/embed/aqz-KE-bpKQ',
+            'trailer_url' => 'https://www.youtube.com/embed/xzzn2KEiBys',
         ]);
 
         Film::create([
@@ -39,7 +39,7 @@ class DatabaseSeeder extends Seeder
             'synopsis' => 'When acclaimed architect Amina Sharif returns to her childhood home on Lamu Island to bury her estranged father, she uncovers letters revealing the real reason she was sent away - and a family debt that threatens to swallow the islands last dhow-building family.',
             'cast' => 'Amina Rashid, Salim Bakari, Grace Njeri',
             'release_date' => '2027-02-06',
-            'trailer_url' => 'https://www.youtube.com/embed/aqz-KE-bpKQ',
+            'trailer_url' => 'https://www.youtube.com/embed/RYJYmNW8Kak',
         ]);
     }
 }
